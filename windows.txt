@@ -1,0 +1,15 @@
+Windirstat
+CCleaner
+Malwarebytes 
+Windows Office 2010 Pro (Excel, Word, PowerPoint)
+Firefox Nightly
+Notepad++
+JDK - JRE
+Python (binaries + interpreter)
+Sumatra PDF
+TransmissionQt
+UltraISO
+Revo Uninstaller
+7zip
+Codeblocks / Dev-C++
+IntelliJ IDEA
